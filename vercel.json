@@ -1,6 +1,1 @@
-{
-  "version": 2,
-  "functions": {
-    "api/calc.js": { "runtime": "nodejs20.x" }
-  }
-}
+
